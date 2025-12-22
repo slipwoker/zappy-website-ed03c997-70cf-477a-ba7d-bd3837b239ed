@@ -1,0 +1,62 @@
+# אביב לין — Generative Engine Optimization Map
+
+> A ספורט business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-ed03c997.zappy5.app
+גלה את הקריירה המקצועית של אביב לין כדורגלן ישראלי מקצועי. עקוב אחרי ההישגים, הסטטיסטיקות והפעילות של שחקן הכדורגל המצטיין.
+
+### הקריירה
+https://-ed03c997.zappy5.app/career
+צפה בקריירה המלאה של אביב לין כדורגלן ישראלי מקצועי - הישגים, משחקים, שערים והתפתחות מקצועית לאורך השנים.
+
+### סטטיסטיקות
+https://-ed03c997.zappy5.app/stats
+סטטיסטיקות מפורטות של אביב לין כדורגלן ישראלי מקצועי - משחקים, שערים, בישולים, דיוק מסירות ועוד נתונים מקצועיים.
+
+### אודות
+https://-ed03c997.zappy5.app/about
+הכירו את אביב לין - כדורגלן ישראלי מקצועי עם קריירה מרשימה, ערכים חזקים ומחויבות למצוינות בכדורגל.
+
+### צור קשר
+https://-ed03c997.zappy5.app/contact
+צרו קשר עם אביב לין כדורגלן לשיתופי פעולה, פעילויות קהילתיות, ראיונות תקשורתיים ועוד. נשמח לשמוע מכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ed03c997.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ed03c997.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ed03c997.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אביב לין
+אביב לין is a business in the ספורט industry.
+
+## Target Audience
+- חובבי כדורגל צעירים
+- ערוצי מדיה ספורטיבית
+
+## Industry
+ספורט
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ed03c997.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ed03c997.zappy5.app/robots.txt
